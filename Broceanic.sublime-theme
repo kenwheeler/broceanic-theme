@@ -816,7 +816,7 @@
         "class": "quick_panel_row",
         "attributes": ["hover"],
         "layer0.texture": "",
-        "layer0.tint": [95, 179, 179]
+        "layer0.tint": [44, 79, 86]
     },
     {
         "class": "quick_panel_row",
